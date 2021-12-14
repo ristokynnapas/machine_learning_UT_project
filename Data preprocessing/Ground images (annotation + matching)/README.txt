@@ -1,0 +1,1 @@
+# Ground images annotation
